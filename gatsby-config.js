@@ -1,16 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Tales from the Mountain - A Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Erich Keil`,
+      summary: `Philosophical Musings about Tech, Learning, and Life`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Personal blog of developer and designer Erich Keil`,
+    siteUrl: `https://zenlex.github.io/persblog`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `erich_keil`,
     },
   },
+  pathPrefix: '/persblog',
   plugins: [
     `gatsby-plugin-image`,
     {

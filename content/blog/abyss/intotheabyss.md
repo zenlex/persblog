@@ -1,6 +1,6 @@
 ---
 title: Get in losers, we're going to the abyss
-date: 3/15/2022
+date: "2022-03-16T22:12:03.284Z"
 ---
 
 # Get in losers, we're going to the abyss
