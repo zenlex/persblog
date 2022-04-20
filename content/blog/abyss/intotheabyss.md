@@ -1,6 +1,7 @@
 ---
 title: Get in losers, we're going to the abyss
 date: "2022-03-16T22:12:03.284Z"
+description: "A reflection on a glowing tree of knowledge and curiosity"
 ---
 
 # Get in losers, we're going to the abyss
@@ -27,7 +28,7 @@ A case study in learning by collecting curious friends and doing something toget
  - Passed triggers from the mushroom switch to the theatrical lighting system to induce global changes
  - Serialized the capacitance data for each fruit and transmitted it via USB to a computer running Max/MSP
 
-![breadboard diagram](BreadboardHookup.pdf)
+![breadboard diagram](./BreadboardHookup.pdf)
 
  Outside of the tree sculpture, we hung a plot of theatrical lighting fixtures that allowed us to change the color and feel of the space. We created several 'worlds' and stored these looks in the lighting console. Triggers from the mushroom switch were also serialized into the USB stream to the central computer which were then formatted and transmitted to the theatrical lighting console via UDP to change the lighting in the room. We also installed a flexible 'gooseneck' USB webcam to capture video of the tree and the users. This video was passed through a series of modules in another Max/MSP instance to apply various artistic effects which were projected near the tree. The idea was that by manipulating the camera, users could 'change their perspective' (label on the camera), and by pressing the mushroom switch they could 'change their world'. 
 
@@ -37,3 +38,11 @@ A case study in learning by collecting curious friends and doing something toget
  
  Those larger lessons about systems and complexity, creative vision and technical implementation, and collaboration and resource sharing were formative and signficant lessons I think we all carry with us in one way or another to this day that would not have presented themseleves in the same fashion if the project was more prescribed or bound to 'safe' areas of preexisting knowledge at its outset. I cannot recommend the process of grabbing some curious friends and diving into something way out at your edge together highly enough. Figure out what you're genuinely curious about, round up your curious friends, and dive into the abyss. The water's great in here. 
  
+![Video of onstage testing](./Max%20video%20.mov)
+
+Some proces pics from the students:
+
+![lantern process 1](./lp1.jpg)
+![lantern process 2](./lp2.jpg)
+![lantern process 3](./lp3.jpg)
+![testing on stage](./testing.jpg)
