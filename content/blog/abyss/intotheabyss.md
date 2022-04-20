@@ -42,7 +42,7 @@ A case study in learning by collecting curious friends and doing something toget
 
 Some proces pics from the students:
 
-![lantern process 1](./lp1.jpg)
-![lantern process 2](./lp2.jpg)
-![lantern process 3](./lp3.jpg)
-![testing on stage](./testing.jpg)
+<img src='./lp1.jpg' width="400px" alt="lantern process 1">
+<img src='./lp2.jpg' width="400px" alt="lantern process 2">
+<img src='./lp3.jpg' width="400px" alt="lantern process 3">
+<img src='./testing.jpg' width="400px" alt="testing onstage">
