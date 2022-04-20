@@ -38,7 +38,7 @@ A case study in learning by collecting curious friends and doing something toget
  
  Those larger lessons about systems and complexity, creative vision and technical implementation, and collaboration and resource sharing were formative and signficant lessons I think we all carry with us in one way or another to this day that would not have presented themseleves in the same fashion if the project was more prescribed or bound to 'safe' areas of preexisting knowledge at its outset. I cannot recommend the process of grabbing some curious friends and diving into something way out at your edge together highly enough. Figure out what you're genuinely curious about, round up your curious friends, and dive into the abyss. The water's great in here. 
  
-![Video of onstage testing](./Max%20video%20.mov)
+[Video of onstage testing](./mstree.mov)
 
 Some proces pics from the students:
 
