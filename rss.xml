@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Personal blog of developer and designer Erich Keil]]></description><link>https://zenlex.github.io/persblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Apr 2022 03:16:31 GMT</lastBuildDate><item><title><![CDATA[HowsThisThingWorkkroWgnihTsihTswoH]]></title><description><![CDATA[MuPolar Mu from the Buddhist tradition - implying the question must be unasked, or that categorical thinking is delusional. Polar meaning…]]></description><link>https://zenlex.github.io/persblog/mupolar/mupolar/</link><guid isPermaLink="false">https://zenlex.github.io/persblog/mupolar/mupolar/</guid><pubDate>Wed, 20 Apr 2022 00:44:39 GMT</pubDate><content:encoded>&lt;h1&gt;MuPolar&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Personal blog of developer and designer Erich Keil]]></description><link>https://zenlex.github.io/persblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Apr 2022 03:23:55 GMT</lastBuildDate><item><title><![CDATA[HowsThisThingWorkkroWgnihTsihTswoH]]></title><description><![CDATA[MuPolar Mu from the Buddhist tradition - implying the question must be unasked, or that categorical thinking is delusional. Polar meaning…]]></description><link>https://zenlex.github.io/persblog/mupolar/mupolar/</link><guid isPermaLink="false">https://zenlex.github.io/persblog/mupolar/mupolar/</guid><pubDate>Wed, 20 Apr 2022 00:44:39 GMT</pubDate><content:encoded>&lt;h1&gt;MuPolar&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Mu from the Buddhist tradition - implying the question must be unasked, or that categorical thinking is delusional. Polar meaning directly opposite&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;As I prepare to start the next phase of my career in Software Development, I’ve been taking time to reflect on memorable experiences I’ve had working with technology and other people. I recently wrote a &lt;a href=&quot;https://zenlex.github.io/persblog/abyss/intotheabyss&quot;&gt;blog post about a magical tree&lt;/a&gt; that I built with some students with the aim of learning more about generative art, collaborative creation processes, system design, and a variety of technical topics in hardware and software. The year prior I took on a similar type of project with my advanced lighting students. This is that story.&lt;/p&gt;
 &lt;h3&gt;The Design / Build&lt;/h3&gt;
@@ -37,123 +37,35 @@
 &lt;p&gt;Those larger lessons about systems and complexity, creative vision and technical implementation, and collaboration and resource sharing were formative and signficant lessons I think we all carry with us in one way or another to this day that would not have presented themseleves in the same fashion if the project was more prescribed or bound to ‘safe’ areas of preexisting knowledge at its outset. I cannot recommend the process of grabbing some curious friends and diving into something way out at your edge together highly enough. Figure out what you’re genuinely curious about, round up your curious friends, and dive into the abyss. The water’s great in here.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;/persblog/f7f14c8d8ddc003b9f189fa6aad5fc66/mstree.mov&quot;&gt;Video of onstage testing&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Some proces pics from the students:&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/persblog/static/1f26690c2d8e93189857ef21bc64c983/09d21/lp1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABBOnB1IJHlcwLCOi40rFWX//EAB4QAAICAgIDAAAAAAAAAAAAAAECAAMEERIhEyJB/9oACAEBAAEFAhgtxbEURaKgBaXU9qHOvL3Y3roxa1rVzNmGxp8n/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BK//EABYRAQEBAAAAAAAAAAAAAAAAABEQIP/aAAgBAgEBPwFhj//EACAQAAICAQMFAAAAAAAAAAAAAAABAhExEBIhMkFRYXH/2gAIAQEABj8CdySYqm/ZizBxZ1RRuo+mRd5+R8mStf/EABsQAQACAwEBAAAAAAAAAAAAAAEAESExUUGR/9oACAEBAAE/IVMY1WSDpHD7Ka3duMQQ+3Mwsoveo8/dBlAGvJWgxXk4H5KKBMqyEXa3gRsjUtGpbn1lz//aAAwDAQACAAMAAAAQcNcPgB//xAAYEQEBAAMAAAAAAAAAAAAAAAABABARQf/aAAgBAwEBPxAwV7bJi//EABkRAQACAwAAAAAAAAAAAAAAAAEAERBBUf/aAAgBAgEBPxBOoQFSnuf/xAAeEAEBAAICAwEBAAAAAAAAAAABEQAhMUFRYZFxgf/aAAgBAQABPxBq4Mih5Xr5nX6oD0njfWHk8iuTkJwgXGOgWy7LwY6LOE1b9xtaGlR/TOLhjQpken7RiQMSIZ0cf3BiKjd2Tv1lafcwwAAiG5chsVQblq3cc//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;lantern process 1&quot;
-        title=&quot;lantern process 1&quot;
-        src=&quot;/persblog/static/1f26690c2d8e93189857ef21bc64c983/09d21/lp1.jpg&quot;
-        srcset=&quot;/persblog/static/1f26690c2d8e93189857ef21bc64c983/ff44c/lp1.jpg 158w,
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/persblog/static/1f26690c2d8e93189857ef21bc64c983/09d21/lp1.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABBOnB1IJHlcwLCOi40rFWX//EAB4QAAICAgIDAAAAAAAAAAAAAAECAAMEERIhEyJB/9oACAEBAAEFAhgtxbEURaKgBaXU9qHOvL3Y3roxa1rVzNmGxp8n/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BK//EABYRAQEBAAAAAAAAAAAAAAAAABEQIP/aAAgBAgEBPwFhj//EACAQAAICAQMFAAAAAAAAAAAAAAABAhExEBIhMkFRYXH/2gAIAQEABj8CdySYqm/ZizBxZ1RRuo+mRd5+R8mStf/EABsQAQACAwEBAAAAAAAAAAAAAAEAESExUUGR/9oACAEBAAE/IVMY1WSDpHD7Ka3duMQQ+3Mwsoveo8/dBlAGvJWgxXk4H5KKBMqyEXa3gRsjUtGpbn1lz//aAAwDAQACAAMAAAAQcNcPgB//xAAYEQEBAAMAAAAAAAAAAAAAAAABABARQf/aAAgBAwEBPxAwV7bJi//EABkRAQACAwAAAAAAAAAAAAAAAAEAERBBUf/aAAgBAgEBPxBOoQFSnuf/xAAeEAEBAAICAwEBAAAAAAAAAAABEQAhMUFRYZFxgf/aAAgBAQABPxBq4Mih5Xr5nX6oD0njfWHk8iuTkJwgXGOgWy7LwY6LOE1b9xtaGlR/TOLhjQpken7RiQMSIZ0cf3BiKjd2Tv1lafcwwAAiG5chsVQblq3cc//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;lantern process 1&quot; title=&quot;lantern process 1&quot; src=&quot;/persblog/static/1f26690c2d8e93189857ef21bc64c983/09d21/lp1.jpg&quot; srcset=&quot;/persblog/static/1f26690c2d8e93189857ef21bc64c983/ff44c/lp1.jpg 158w,
 /persblog/static/1f26690c2d8e93189857ef21bc64c983/a6688/lp1.jpg 315w,
-/persblog/static/1f26690c2d8e93189857ef21bc64c983/09d21/lp1.jpg 540w&quot;
-        sizes=&quot;(max-width: 540px) 100vw, 540px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
+/persblog/static/1f26690c2d8e93189857ef21bc64c983/09d21/lp1.jpg 540w&quot; sizes=&quot;(max-width: 540px) 100vw, 540px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/persblog/static/5c13fcec685464af2ad7265552f5790c/09d21/lp2.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGk2k+Kh0za8E2fNbJWBGCJAD//xAAcEAACAgMBAQAAAAAAAAAAAAABAgARAxITEDH/2gAIAQEAAQUCVCRpFBoZnnZp0fzpTg2Iza5MBvHKE+T/xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEg/9oACAEDAQE/AaYXH//EABcRAQEBAQAAAAAAAAAAAAAAAAERECD/2gAIAQIBAT8BpgXj/8QAHBAAAQQDAQAAAAAAAAAAAAAAAAEQITECEaEy/9oACAEBAAY/AvPCMOE7KQpCsW1LrOnpG//EABsQAAMBAQEBAQAAAAAAAAAAAAABESExQXGh/9oACAEBAAE/Ibr9dFXAwcH9ha6OeXG7rDw8DrwQhrhRyaKPtjaOwtrY/gsRJI//2gAMAwEAAgADAAAAEOc5jPQv/8QAGREAAwADAAAAAAAAAAAAAAAAAAERECGB/9oACAEDAQE/ENBwgqJ1XP8A/8QAGREAAwADAAAAAAAAAAAAAAAAAAERECFR/9oACAECAQE/EN5F0sg1HM//xAAhEAEAAgICAQUBAAAAAAAAAAABABEhMUFRcWGBkaGx8P/aAAgBAQABPxCmLm6sB6QBgU0KtjbvPFfS5rBDBSa94rTza/P5Fs/Rm0/s3HHZigDGK4A+Y0IrTW5pN2FZgXR3LG3IPeYFbcIxVZHKFlaEdBU//9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;lantern process 2&quot;
-        title=&quot;lantern process 2&quot;
-        src=&quot;/persblog/static/5c13fcec685464af2ad7265552f5790c/09d21/lp2.jpg&quot;
-        srcset=&quot;/persblog/static/5c13fcec685464af2ad7265552f5790c/ff44c/lp2.jpg 158w,
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/persblog/static/5c13fcec685464af2ad7265552f5790c/09d21/lp2.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGk2k+Kh0za8E2fNbJWBGCJAD//xAAcEAACAgMBAQAAAAAAAAAAAAABAgARAxITEDH/2gAIAQEAAQUCVCRpFBoZnnZp0fzpTg2Iza5MBvHKE+T/xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEg/9oACAEDAQE/AaYXH//EABcRAQEBAQAAAAAAAAAAAAAAAAERECD/2gAIAQIBAT8BpgXj/8QAHBAAAQQDAQAAAAAAAAAAAAAAAAEQITECEaEy/9oACAEBAAY/AvPCMOE7KQpCsW1LrOnpG//EABsQAAMBAQEBAQAAAAAAAAAAAAABESExQXGh/9oACAEBAAE/Ibr9dFXAwcH9ha6OeXG7rDw8DrwQhrhRyaKPtjaOwtrY/gsRJI//2gAMAwEAAgADAAAAEOc5jPQv/8QAGREAAwADAAAAAAAAAAAAAAAAAAERECGB/9oACAEDAQE/ENBwgqJ1XP8A/8QAGREAAwADAAAAAAAAAAAAAAAAAAERECFR/9oACAECAQE/EN5F0sg1HM//xAAhEAEAAgICAQUBAAAAAAAAAAABABEhMUFRcWGBkaGx8P/aAAgBAQABPxCmLm6sB6QBgU0KtjbvPFfS5rBDBSa94rTza/P5Fs/Rm0/s3HHZigDGK4A+Y0IrTW5pN2FZgXR3LG3IPeYFbcIxVZHKFlaEdBU//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;lantern process 2&quot; title=&quot;lantern process 2&quot; src=&quot;/persblog/static/5c13fcec685464af2ad7265552f5790c/09d21/lp2.jpg&quot; srcset=&quot;/persblog/static/5c13fcec685464af2ad7265552f5790c/ff44c/lp2.jpg 158w,
 /persblog/static/5c13fcec685464af2ad7265552f5790c/a6688/lp2.jpg 315w,
-/persblog/static/5c13fcec685464af2ad7265552f5790c/09d21/lp2.jpg 540w&quot;
-        sizes=&quot;(max-width: 540px) 100vw, 540px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
+/persblog/static/5c13fcec685464af2ad7265552f5790c/09d21/lp2.jpg 540w&quot; sizes=&quot;(max-width: 540px) 100vw, 540px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/persblog/static/034581cbbcd19bf77b0567694dcc8afc/09d21/lp3.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQMA/9oADAMBAAIQAxAAAAHlx03ZHktZLVLNSdOswJKJF64F/wD/xAAdEAACAQUBAQAAAAAAAAAAAAABAgADEhMhMRAR/9oACAEBAAEFAsWrYY3AwZSdqxEpsqtlpxm+S4wSpxFHn//EABsRAAICAwEAAAAAAAAAAAAAAAABAhIQESFB/9oACAEDAQE/AZyqzg9FUe4//8QAGREAAwADAAAAAAAAAAAAAAAAABARASFB/9oACAECAQE/AbkptcX/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQECEDEgIXGh0f/aAAgBAQAGPwJu7QoXBiD0cUG9PVs6f//EAB4QAQACAgEFAAAAAAAAAAAAAAEAETFBIRBRYXGh/9oACAEBAAE/IeVEUTEVNGoaIsXbKwU+Cd4QUAEpwiYguhii8r6SwBvc2ZXzLVmbfMoXl6f/2gAMAwEAAgADAAAAEPflMQ/P/8QAGhEAAgIDAAAAAAAAAAAAAAAAABEBIRBBYf/aAAgBAwEBPxCkVDlsZKk5ix//xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQITH/2gAIAQIBAT8Q0UTTgkyKXH//xAAdEAEAAwEAAwEBAAAAAAAAAAABABEhQTFhcRBR/9oACAEBAAE/EAtTOLHsay6iqiGJarhS9D+wl5ItKeDfYAh964wjFVlXsA69OM28GJCo6qRyh7OEKqpwSc+S2yH6TZXkxKFlm7+f/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;lantern process 3&quot;
-        title=&quot;lantern process 3&quot;
-        src=&quot;/persblog/static/034581cbbcd19bf77b0567694dcc8afc/09d21/lp3.jpg&quot;
-        srcset=&quot;/persblog/static/034581cbbcd19bf77b0567694dcc8afc/ff44c/lp3.jpg 158w,
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/persblog/static/034581cbbcd19bf77b0567694dcc8afc/09d21/lp3.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQMA/9oADAMBAAIQAxAAAAHlx03ZHktZLVLNSdOswJKJF64F/wD/xAAdEAACAQUBAQAAAAAAAAAAAAABAgADEhMhMRAR/9oACAEBAAEFAsWrYY3AwZSdqxEpsqtlpxm+S4wSpxFHn//EABsRAAICAwEAAAAAAAAAAAAAAAABAhIQESFB/9oACAEDAQE/AZyqzg9FUe4//8QAGREAAwADAAAAAAAAAAAAAAAAABARASFB/9oACAECAQE/AbkptcX/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQECEDEgIXGh0f/aAAgBAQAGPwJu7QoXBiD0cUG9PVs6f//EAB4QAQACAgEFAAAAAAAAAAAAAAEAETFBIRBRYXGh/9oACAEBAAE/IeVEUTEVNGoaIsXbKwU+Cd4QUAEpwiYguhii8r6SwBvc2ZXzLVmbfMoXl6f/2gAMAwEAAgADAAAAEPflMQ/P/8QAGhEAAgIDAAAAAAAAAAAAAAAAABEBIRBBYf/aAAgBAwEBPxCkVDlsZKk5ix//xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQITH/2gAIAQIBAT8Q0UTTgkyKXH//xAAdEAEAAwEAAwEBAAAAAAAAAAABABEhQTFhcRBR/9oACAEBAAE/EAtTOLHsay6iqiGJarhS9D+wl5ItKeDfYAh964wjFVlXsA69OM28GJCo6qRyh7OEKqpwSc+S2yH6TZXkxKFlm7+f/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;lantern process 3&quot; title=&quot;lantern process 3&quot; src=&quot;/persblog/static/034581cbbcd19bf77b0567694dcc8afc/09d21/lp3.jpg&quot; srcset=&quot;/persblog/static/034581cbbcd19bf77b0567694dcc8afc/ff44c/lp3.jpg 158w,
 /persblog/static/034581cbbcd19bf77b0567694dcc8afc/a6688/lp3.jpg 315w,
-/persblog/static/034581cbbcd19bf77b0567694dcc8afc/09d21/lp3.jpg 540w&quot;
-        sizes=&quot;(max-width: 540px) 100vw, 540px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
+/persblog/static/034581cbbcd19bf77b0567694dcc8afc/09d21/lp3.jpg 540w&quot; sizes=&quot;(max-width: 540px) 100vw, 540px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 480px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/persblog/static/2b38771d17bff3efc1004754968380df/7cc5e/testing.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB4lsD2YjEP//EABsQAAEEAwAAAAAAAAAAAAAAAAIAARESAwQQ/9oACAEBAAEFAsY2I9dh5MK5Qv/EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPwGFf//EABYRAQEBAAAAAAAAAAAAAAAAAAECEP/aAAgBAgEBPwEZz//EABgQAAMBAQAAAAAAAAAAAAAAABARMQAB/9oACAEBAAY/Ak1r2Gj/xAAbEAACAgMBAAAAAAAAAAAAAAABEQAQITFBUf/aAAgBAQABPyELiPZ3xkXygWmJgB0K/9oADAMBAAIAAwAAABCjD//EABYRAQEBAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPxBTJ//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAgEBPxAwCWX/xAAaEAEBAQEBAQEAAAAAAAAAAAABESEAkRBB/9oACAEBAAE/EAZsKvzZ0UyDZSMhPjCunMOTDqQuF197zzv/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;testing on stage&quot;
-        title=&quot;testing on stage&quot;
-        src=&quot;/persblog/static/2b38771d17bff3efc1004754968380df/7cc5e/testing.jpg&quot;
-        srcset=&quot;/persblog/static/2b38771d17bff3efc1004754968380df/ff44c/testing.jpg 158w,
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 480px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/persblog/static/2b38771d17bff3efc1004754968380df/7cc5e/testing.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB4lsD2YjEP//EABsQAAEEAwAAAAAAAAAAAAAAAAIAARESAwQQ/9oACAEBAAEFAsY2I9dh5MK5Qv/EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPwGFf//EABYRAQEBAAAAAAAAAAAAAAAAAAECEP/aAAgBAgEBPwEZz//EABgQAAMBAQAAAAAAAAAAAAAAABARMQAB/9oACAEBAAY/Ak1r2Gj/xAAbEAACAgMBAAAAAAAAAAAAAAABEQAQITFBUf/aAAgBAQABPyELiPZ3xkXygWmJgB0K/9oADAMBAAIAAwAAABCjD//EABYRAQEBAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPxBTJ//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAgEBPxAwCWX/xAAaEAEBAQEBAQEAAAAAAAAAAAABESEAkRBB/9oACAEBAAE/EAZsKvzZ0UyDZSMhPjCunMOTDqQuF197zzv/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;testing onstage&quot; title=&quot;testing onstage&quot; src=&quot;/persblog/static/2b38771d17bff3efc1004754968380df/7cc5e/testing.jpg&quot; srcset=&quot;/persblog/static/2b38771d17bff3efc1004754968380df/ff44c/testing.jpg 158w,
 /persblog/static/2b38771d17bff3efc1004754968380df/a6688/testing.jpg 315w,
-/persblog/static/2b38771d17bff3efc1004754968380df/7cc5e/testing.jpg 480w&quot;
-        sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
+/persblog/static/2b38771d17bff3efc1004754968380df/7cc5e/testing.jpg 480w&quot; sizes=&quot;(max-width: 480px) 100vw, 480px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+    &lt;/span&gt;</content:encoded></item></channel></rss>
