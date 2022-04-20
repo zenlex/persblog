@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Personal blog of developer and designer Erich Keil]]></description><link>https://zenlex.github.io/persblog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 17 Mar 2022 00:28:20 GMT</lastBuildDate><item><title><![CDATA[Get in losers, we're going to the abyss]]></title><description><![CDATA[Get in losers, we’re going to the abyss A case study in learning by collecting curious friends and doing something together that none of you…]]></description><link>https://zenlex.github.io/persblog/abyss/intotheabyss/</link><guid isPermaLink="false">https://zenlex.github.io/persblog/abyss/intotheabyss/</guid><pubDate>Wed, 16 Mar 2022 22:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;Get in losers, we’re going to the abyss&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Personal blog of developer and designer Erich Keil]]></description><link>https://zenlex.github.io/persblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Apr 2022 02:28:59 GMT</lastBuildDate><item><title><![CDATA[HowsThisThingWorkkroWgnihTsihTswoH]]></title><description><![CDATA[MuPolar Mu from the Buddhist tradition - implying the question must be unasked, or that categorical thinking is delusional. Polar meaning…]]></description><link>https://zenlex.github.io/persblog/mupolar/mupolar/</link><guid isPermaLink="false">https://zenlex.github.io/persblog/mupolar/mupolar/</guid><pubDate>Wed, 20 Apr 2022 00:44:39 GMT</pubDate><content:encoded>&lt;h1&gt;MuPolar&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Mu from the Buddhist tradition - implying the question must be unasked, or that categorical thinking is delusional. Polar meaning directly opposite&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As I prepare to start the next phase of my career in Software Development, I’ve been taking time to reflect on memorable experiences I’ve had working with technology and other people. I recently wrote a &lt;a href=&quot;https://zenlex.github.io/persblog/abyss/intotheabyss&quot;&gt;blog post about a magical tree&lt;/a&gt; that I built with some students with the aim of learning more about generative art, collaborative creation processes, system design, and a variety of technical topics in hardware and software. The year prior I took on a similar type of project with my advanced lighting students. This is that story.&lt;/p&gt;
+&lt;h3&gt;The Design / Build&lt;/h3&gt;
+&lt;p&gt;Working with virtually all recycled materials we collaboratively painted a mandala inspired floor, built a suspended cube and projected on the inside of it, and lit the surrounding space with over 100 theatrical LED fixtures to create ambiance and interactive elements.&lt;/p&gt;
+&lt;p&gt;We comandeered the main theatre space for this madness and lined the entry with various projects in photography and electronics the lighting students had completed over the course of the semester. Upon arrival on the stage, visitors were greeted with a sharply lit pathway in an otherwise dark space, beckoning them to come into the cube. Centered in the cube on a pedestal was a 16 pad MIDI controller connected to an iMac backstage. The game was written in Applescript and monitored the incoming MIDI stream, ran the game logic, and then sent commands to a QLab instance that remotely triggered the theatrical lighting fixtures and was also responsible for all the video projection playback.&lt;/p&gt;
+&lt;p&gt;I wrote the game logic and created a custom sound scape and sound effects for the game and worked with my students to design and implement the lighting and projection systems.  &lt;a href=&quot;https://www.youtube.com/watch?v=pLNxQygFoBo&amp;#x26;t=363s&quot;&gt;There’s a video Jay made documenting the installation and user experience that I also created original music for&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All of the video content was produced by a friend Jay Miller who was experimenting with creating 3D fractals and slicing them to create textural video and images. It was this concept of fractals and explorations of symmetry patterns that gave us the idea for the game logic.&lt;/p&gt;
+&lt;h3&gt;The Game&lt;/h3&gt;
+&lt;p&gt;The idea of the game was simple. Initially (level ‘1’), you were simply required to press the same pad twice. Making the correct second pad choice triggered a flash of light and a change in video content making it obvious something ‘good’ had happened’ Pressing any other pad for the second choice lit the whole room up red and reset the game (‘bad’). Each time a player advanced a level with a correct sequence, the input sequence was lengthened by one, so on level two it needed to be an ABBA format, on level 3 ABCCBA, etc…always a mirrored symmetry getting longer by 2 each time it was entered correctly and shorter by 2 each time an error was made. After level 9 a ‘win’ sequence was triggered with exciting music and lights ballyhooing to and fro.&lt;/p&gt;
+&lt;p&gt;The trick was that none of this was explained to anyone who entered. There was just 16 pads inviting you to play. It was amazing to watch the participants experiment and eventually figure it out and then watch others try and get frustrated when they could tell they weren’t getting it clearly but weren’t sure what ‘it’ was or what about it they weren’t getting, and the interactions between those who had completed it and those who were trying to.&lt;/p&gt;
+&lt;p&gt;Much like the MaxMSTREE project I linked at the beginning of this piece, this proved to be another validating experience of the value of grabbing some cool people who are curious and diving headlong into the abyss of creativity with a toolkit full of skills and very little precedent. I highly recommend untethered acts of beautiful creation and reckless learning.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Get in losers, we're going to the abyss]]></title><description><![CDATA[Get in losers, we’re going to the abyss A case study in learning by collecting curious friends and doing something together that none of you…]]></description><link>https://zenlex.github.io/persblog/abyss/intotheabyss/</link><guid isPermaLink="false">https://zenlex.github.io/persblog/abyss/intotheabyss/</guid><pubDate>Wed, 16 Mar 2022 22:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;Get in losers, we’re going to the abyss&lt;/h1&gt;
 &lt;p&gt;A case study in learning by collecting curious friends and doing something together that none of you know how to
 &lt;em&gt;or the “you made your bed now lie in it” school of creative learning&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In the fall of 2015, a couple motivated, intelligent, and curious students of mine approached me with a request to learn more about technological tools for interactive experiences. As an educator I am always energized and motivated by anyone who expresses a genuine desire to learn something. The topic hardly matters. If you approach me and say “Hey, I know nothing about topic &lt;em&gt;x&lt;/em&gt; but would like to”, be prepared as my instinctual response will be to grab you by the hand and leap head first into the abyss of the unknown, even if I know nothing about the topic myself. I’m not sure if these particular students knew that was the journey they were in for when they signed up or not, but it’s definitely what they got. What follows are some notes on the details and thoughts on the outcome.&lt;/p&gt;
@@ -23,4 +34,126 @@
 &lt;p&gt;Outside of the tree sculpture, we hung a plot of theatrical lighting fixtures that allowed us to change the color and feel of the space. We created several ‘worlds’ and stored these looks in the lighting console. Triggers from the mushroom switch were also serialized into the USB stream to the central computer which were then formatted and transmitted to the theatrical lighting console via UDP to change the lighting in the room. We also installed a flexible ‘gooseneck’ USB webcam to capture video of the tree and the users. This video was passed through a series of modules in another Max/MSP instance to apply various artistic effects which were projected near the tree. The idea was that by manipulating the camera, users could ‘change their perspective’ (label on the camera), and by pressing the mushroom switch they could ‘change their world’.&lt;/p&gt;
 &lt;p&gt;The soundscape in the space was procedurally generated synthesis using the numeric values from the capacitance sensors to seed and manipulate the music using Max/MSP. It also took ‘theming’ parameters from the current ‘world’ selection made via the mushroom switch.&lt;/p&gt;
 &lt;p&gt;This process was successful in both product and process. It had a lot of complex interactions and interconnected technical parts and was very well received by those who experienced it. More importantly though, almost all of the technical requirements of the installation were well beyond any scope of knowledge any of us had at the beginning of the 15 week process. So much valuable learning for myself as an educator and for these two brilliant students came out of the fact that we conceived of an idea that was well beyond any of our current areas of understanding or technical knowledge and had to figure out what strengths we each brought to the group and how we would collectively assemble the knowledge, resources, and skills needed to bring the vision to reality.&lt;/p&gt;
-&lt;p&gt;Those larger lessons about systems and complexity, creative vision and technical implementation, and collaboration and resource sharing were formative and signficant lessons I think we all carry with us in one way or another to this day that would not have presented themseleves in the same fashion if the project was more prescribed or bound to ‘safe’ areas of preexisting knowledge at its outset. I cannot recommend the process of grabbing some curious friends and diving into something way out at your edge together highly enough. Figure out what you’re genuinely curious about, round up your curious friends, and dive into the abyss. The water’s great in here.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Those larger lessons about systems and complexity, creative vision and technical implementation, and collaboration and resource sharing were formative and signficant lessons I think we all carry with us in one way or another to this day that would not have presented themseleves in the same fashion if the project was more prescribed or bound to ‘safe’ areas of preexisting knowledge at its outset. I cannot recommend the process of grabbing some curious friends and diving into something way out at your edge together highly enough. Figure out what you’re genuinely curious about, round up your curious friends, and dive into the abyss. The water’s great in here.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./Max%20video%20.mov&quot; alt=&quot;Video of onstage testing&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Some proces pics from the students:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/persblog/static/1f26690c2d8e93189857ef21bc64c983/09d21/lp1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABBOnB1IJHlcwLCOi40rFWX//EAB4QAAICAgIDAAAAAAAAAAAAAAECAAMEERIhEyJB/9oACAEBAAEFAhgtxbEURaKgBaXU9qHOvL3Y3roxa1rVzNmGxp8n/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BK//EABYRAQEBAAAAAAAAAAAAAAAAABEQIP/aAAgBAgEBPwFhj//EACAQAAICAQMFAAAAAAAAAAAAAAABAhExEBIhMkFRYXH/2gAIAQEABj8CdySYqm/ZizBxZ1RRuo+mRd5+R8mStf/EABsQAQACAwEBAAAAAAAAAAAAAAEAESExUUGR/9oACAEBAAE/IVMY1WSDpHD7Ka3duMQQ+3Mwsoveo8/dBlAGvJWgxXk4H5KKBMqyEXa3gRsjUtGpbn1lz//aAAwDAQACAAMAAAAQcNcPgB//xAAYEQEBAAMAAAAAAAAAAAAAAAABABARQf/aAAgBAwEBPxAwV7bJi//EABkRAQACAwAAAAAAAAAAAAAAAAEAERBBUf/aAAgBAgEBPxBOoQFSnuf/xAAeEAEBAAICAwEBAAAAAAAAAAABEQAhMUFRYZFxgf/aAAgBAQABPxBq4Mih5Xr5nX6oD0njfWHk8iuTkJwgXGOgWy7LwY6LOE1b9xtaGlR/TOLhjQpken7RiQMSIZ0cf3BiKjd2Tv1lafcwwAAiG5chsVQblq3cc//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;lantern process 1&quot;
+        title=&quot;lantern process 1&quot;
+        src=&quot;/persblog/static/1f26690c2d8e93189857ef21bc64c983/09d21/lp1.jpg&quot;
+        srcset=&quot;/persblog/static/1f26690c2d8e93189857ef21bc64c983/ff44c/lp1.jpg 158w,
+/persblog/static/1f26690c2d8e93189857ef21bc64c983/a6688/lp1.jpg 315w,
+/persblog/static/1f26690c2d8e93189857ef21bc64c983/09d21/lp1.jpg 540w&quot;
+        sizes=&quot;(max-width: 540px) 100vw, 540px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/persblog/static/5c13fcec685464af2ad7265552f5790c/09d21/lp2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIDBAUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGk2k+Kh0za8E2fNbJWBGCJAD//xAAcEAACAgMBAQAAAAAAAAAAAAABAgARAxITEDH/2gAIAQEAAQUCVCRpFBoZnnZp0fzpTg2Iza5MBvHKE+T/xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEg/9oACAEDAQE/AaYXH//EABcRAQEBAQAAAAAAAAAAAAAAAAERECD/2gAIAQIBAT8BpgXj/8QAHBAAAQQDAQAAAAAAAAAAAAAAAAEQITECEaEy/9oACAEBAAY/AvPCMOE7KQpCsW1LrOnpG//EABsQAAMBAQEBAQAAAAAAAAAAAAABESExQXGh/9oACAEBAAE/Ibr9dFXAwcH9ha6OeXG7rDw8DrwQhrhRyaKPtjaOwtrY/gsRJI//2gAMAwEAAgADAAAAEOc5jPQv/8QAGREAAwADAAAAAAAAAAAAAAAAAAERECGB/9oACAEDAQE/ENBwgqJ1XP8A/8QAGREAAwADAAAAAAAAAAAAAAAAAAERECFR/9oACAECAQE/EN5F0sg1HM//xAAhEAEAAgICAQUBAAAAAAAAAAABABEhMUFRcWGBkaGx8P/aAAgBAQABPxCmLm6sB6QBgU0KtjbvPFfS5rBDBSa94rTza/P5Fs/Rm0/s3HHZigDGK4A+Y0IrTW5pN2FZgXR3LG3IPeYFbcIxVZHKFlaEdBU//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;lantern process 2&quot;
+        title=&quot;lantern process 2&quot;
+        src=&quot;/persblog/static/5c13fcec685464af2ad7265552f5790c/09d21/lp2.jpg&quot;
+        srcset=&quot;/persblog/static/5c13fcec685464af2ad7265552f5790c/ff44c/lp2.jpg 158w,
+/persblog/static/5c13fcec685464af2ad7265552f5790c/a6688/lp2.jpg 315w,
+/persblog/static/5c13fcec685464af2ad7265552f5790c/09d21/lp2.jpg 540w&quot;
+        sizes=&quot;(max-width: 540px) 100vw, 540px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/persblog/static/034581cbbcd19bf77b0567694dcc8afc/09d21/lp3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQMA/9oADAMBAAIQAxAAAAHlx03ZHktZLVLNSdOswJKJF64F/wD/xAAdEAACAQUBAQAAAAAAAAAAAAABAgADEhMhMRAR/9oACAEBAAEFAsWrYY3AwZSdqxEpsqtlpxm+S4wSpxFHn//EABsRAAICAwEAAAAAAAAAAAAAAAABAhIQESFB/9oACAEDAQE/AZyqzg9FUe4//8QAGREAAwADAAAAAAAAAAAAAAAAABARASFB/9oACAECAQE/AbkptcX/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQECEDEgIXGh0f/aAAgBAQAGPwJu7QoXBiD0cUG9PVs6f//EAB4QAQACAgEFAAAAAAAAAAAAAAEAETFBIRBRYXGh/9oACAEBAAE/IeVEUTEVNGoaIsXbKwU+Cd4QUAEpwiYguhii8r6SwBvc2ZXzLVmbfMoXl6f/2gAMAwEAAgADAAAAEPflMQ/P/8QAGhEAAgIDAAAAAAAAAAAAAAAAABEBIRBBYf/aAAgBAwEBPxCkVDlsZKk5ix//xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQITH/2gAIAQIBAT8Q0UTTgkyKXH//xAAdEAEAAwEAAwEBAAAAAAAAAAABABEhQTFhcRBR/9oACAEBAAE/EAtTOLHsay6iqiGJarhS9D+wl5ItKeDfYAh964wjFVlXsA69OM28GJCo6qRyh7OEKqpwSc+S2yH6TZXkxKFlm7+f/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;lantern process 3&quot;
+        title=&quot;lantern process 3&quot;
+        src=&quot;/persblog/static/034581cbbcd19bf77b0567694dcc8afc/09d21/lp3.jpg&quot;
+        srcset=&quot;/persblog/static/034581cbbcd19bf77b0567694dcc8afc/ff44c/lp3.jpg 158w,
+/persblog/static/034581cbbcd19bf77b0567694dcc8afc/a6688/lp3.jpg 315w,
+/persblog/static/034581cbbcd19bf77b0567694dcc8afc/09d21/lp3.jpg 540w&quot;
+        sizes=&quot;(max-width: 540px) 100vw, 540px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 480px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/persblog/static/2b38771d17bff3efc1004754968380df/7cc5e/testing.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB4lsD2YjEP//EABsQAAEEAwAAAAAAAAAAAAAAAAIAARESAwQQ/9oACAEBAAEFAsY2I9dh5MK5Qv/EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPwGFf//EABYRAQEBAAAAAAAAAAAAAAAAAAECEP/aAAgBAgEBPwEZz//EABgQAAMBAQAAAAAAAAAAAAAAABARMQAB/9oACAEBAAY/Ak1r2Gj/xAAbEAACAgMBAAAAAAAAAAAAAAABEQAQITFBUf/aAAgBAQABPyELiPZ3xkXygWmJgB0K/9oADAMBAAIAAwAAABCjD//EABYRAQEBAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPxBTJ//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAgEBPxAwCWX/xAAaEAEBAQEBAQEAAAAAAAAAAAABESEAkRBB/9oACAEBAAE/EAZsKvzZ0UyDZSMhPjCunMOTDqQuF197zzv/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;testing on stage&quot;
+        title=&quot;testing on stage&quot;
+        src=&quot;/persblog/static/2b38771d17bff3efc1004754968380df/7cc5e/testing.jpg&quot;
+        srcset=&quot;/persblog/static/2b38771d17bff3efc1004754968380df/ff44c/testing.jpg 158w,
+/persblog/static/2b38771d17bff3efc1004754968380df/a6688/testing.jpg 315w,
+/persblog/static/2b38771d17bff3efc1004754968380df/7cc5e/testing.jpg 480w&quot;
+        sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
