@@ -43,6 +43,11 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
+        <div style={{ marginBottom: 20, fontSize: "1.3em" }}>
+          <a href="https://www.zenlex.dev">
+            <b>Check out my Portfolio</b>
+          </a>
+        </div>
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>

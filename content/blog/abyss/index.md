@@ -1,5 +1,5 @@
 ---
-title: Get in losers, we're going to the abyss
+title: Get in Losers, We're Going to the Abyss 
 date: "2022-03-16T22:12:03.284Z"
 description: "A reflection on a glowing tree of knowledge and curiosity"
 ---
