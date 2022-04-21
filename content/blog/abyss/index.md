@@ -3,8 +3,6 @@ title: Get in losers, we're going to the abyss
 date: "2022-03-16T22:12:03.284Z"
 description: "A reflection on a glowing tree of knowledge and curiosity"
 ---
-
-# Get in losers, we're going to the abyss
 A case study in learning by collecting curious friends and doing something together that none of you know how to
 *or the "you made your bed now lie in it" school of creative learning*
 

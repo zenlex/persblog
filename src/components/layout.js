@@ -4,6 +4,7 @@ import { ThemeToggler } from "gatsby-plugin-dark-mode"
 
 const Layout = ({ location, title, children }) => {
   const [isDarkMode, setIsDarkMode] = React.useState(false)
+
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   let header
@@ -29,11 +30,11 @@ const Layout = ({ location, title, children }) => {
           <label>
             <input
               type="checkbox"
+              checked={isDarkMode}
               onChange={e => {
                 setIsDarkMode(!isDarkMode)
                 toggleTheme(isDarkMode ? "light" : "dark")
               }}
-              checked={isDarkMode}
             />{" "}
             Dark mode
           </label>
