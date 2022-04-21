@@ -1,6 +1,6 @@
 ---
 title: "HowsThisThingWorkkroWgnihTsihTswoH"
-date: "2022-04-20T00:44:39.042Z"
+date: "2022-04-02T00:44:39.042Z"
 description: "A game about symmetry and curiosity"
 ---
 # MuPolar

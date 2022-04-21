@@ -83,6 +83,31 @@ body {
   color: var(--color-text);
 }
 
+/* dark mode plugin settings */
+body {
+  --bg: #fff;
+  --primaryText: #000;
+  --secondaryText: #777;
+  background-color: var(--bg);
+}
+
+body.dark {
+  -webkit-font-smoothing: antialiased;
+  --bg: #222831;
+  color: #e8e8e8;
+  --secondaryText: #9d9d9d;
+}
+
+body.dark a {
+  color: #9d9d9d;
+}
+
+body.dark h1 {
+  color: #005b99;
+}
+
+/* END dark mode plugin settings */
+
 footer {
   padding: var(--spacing-6) var(--spacing-0);
 }
@@ -143,16 +168,16 @@ h6 {
   font-size: var(--fontSize-1);
 }
 
-h1 > a {
+h1>a {
   color: inherit;
   text-decoration: none;
 }
 
-h2 > a,
-h3 > a,
-h4 > a,
-h5 > a,
-h6 > a {
+h2>a,
+h3>a,
+h4>a,
+h5>a,
+h6>a {
   text-decoration: none;
   color: inherit;
 }
@@ -183,7 +208,7 @@ ol li {
   margin-bottom: calc(var(--spacing-8) / 2);
 }
 
-li > p {
+li>p {
   margin-bottom: calc(var(--spacing-8) / 2);
 }
 
@@ -191,7 +216,7 @@ li *:last-child {
   margin-bottom: var(--spacing-0);
 }
 
-li > ul {
+li>ul {
   margin-left: var(--spacing-8);
   margin-top: calc(var(--spacing-8) / 2);
 }
@@ -207,12 +232,12 @@ blockquote {
   margin-bottom: var(--spacing-8);
 }
 
-blockquote > :last-child {
+blockquote> :last-child {
   margin-bottom: var(--spacing-0);
 }
 
-blockquote > ul,
-blockquote > ol {
+blockquote>ul,
+blockquote>ol {
   list-style-position: inside;
 }
 
@@ -326,6 +351,7 @@ a:focus {
     padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
     margin-left: var(--spacing-0);
   }
+
   ul,
   ol {
     list-style-position: inside;

@@ -1,0 +1,202 @@
+
+//TODO: FIX TITLE DESCRIPTION BLERGH
+
+//NOTES FROM Hinds, Patterson, and Pfeffer
+[Bothered by Abstraction: The Effect of Expertise on Knowledge Transfer and Subsequent Novice Performance](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.523.6599&rep=rep1&type=pdf);
+
+2001 paper in the Journal of Applied Psychology
+
+"Davenport and Prusak (1998) observed that most of the knowledge companies need is
+already inside these organizations. To capitalize on this knowledge, organizations must
+figure out how to transfer the expertise from those that have it to those who need to
+know."p.3
+
+We live in a knowledge-based economy in which work is increasingly knowledge
+work. “What an organization and its employees know is at the heart of how the
+organization functions” (Davenport and Prusak, 1998: x). 
+
+
+"In a knowledge-based economy, training to develop additional skill and expertise
+is important. Although estimates are that U.S. companies spent almost $60 billion on
+formal training programs in 1997 (Bartel, 2000), on-the-job-training may be as important
+or even more important a way in which people learn how to do their work. That is
+because doing the work itself—learning from experience—and, of course, calling on co-
+workers and supervisors to provide insight and guidance, is one of the most important
+and effective ways people learn how to do thing"p.3
+
+Possible methods experts may be called on to share expertise:
+White papers
+Company knowledgebases
+Training/Mentoring programs and activities
+
+However, there may be problems in transferring knowledge and expertise to those less
+knowledgeable because the very characteristics that constitute expertise may interfere
+with experts’ ability to effectively convey their knowledge to novices. In particular,
+experts may have trouble overcoming the cognitive differences between themselves and
+novices to effectively instruct those less expert than themselves.
+
+"Experts organize and access knowledge differently than those with less expertise (see Sternberg,
+1997 for a review). " p.4-5
+
+"One robust finding in studies of experts is that, as expertise increases, mental
+representations become more abstract." p.5
+
+"These studies along with others (i.e. Ceci, & Liker, 1986;
+Gobet & Simon, 1998; Johnson, 1988; Lamberti & Newsome, 1989; Chase & Simon,
+1973; McKeithen, Reitman, Rueter, & Hirtle, 1981) suggest that experts encode and
+process information in a more conceptually abstract way than do those with less
+expertise"
+
+Knowledge in many domains is hierarchical "...theories of cognitive skill
+development suggest that acquisition of declarative knowledge must precede acquisition
+of procedural and strategic knowledge"
+
+"There are two reasons to suspect that experts may have difficulty effectively
+instructing novices. First, there is evidence that experts are likely to articulate their
+superior knowledge at a more advanced, abstract level. Second, experts may face
+cognitive limitations when attempting to adjust their level of presentation downward to a
+level appropriate to novice learners."
+
+"xperts may suffer from an availability bias that leads them to rely upon
+their own, more recent experience when anticipating the experience of novices (Hinds,
+1999). Hinds describes a process whereby experts attempt to predict the experience of
+novices by anchoring on the experts’ own novice experience and using this as a basis
+from which to estimate novice performance. However, the accuracy of this anchoring
+and adjustment process is disrupted by experts’ inability to recall their own novice
+experience."
+
+"H1: Experts, as compared to beginners, will make more abstract and fewer concrete
+statements when instructing novices.
+H2: Experts, as compared to beginners, will use more advanced concepts and fewer
+basic concepts than beginners when instructing novices."
+
+
+Transfer of Expertise 8
+H1: Experts, as compared to beginners, will make more abstract and fewer concrete
+statements when instructing novices.
+H2: Experts, as compared to beginners, will use more advanced concepts and fewer
+basic concepts than beginners when instructing novices.
+The Effect of Instruction on Novice Performance
+Assuming that experts, as compared to beginners, convey instructions to novices
+using more advanced, abstract statements, the next question is whether or not this
+difference in behavior affects novice performance. One reason to think that the level of
+instruction would affect performance is that novices are likely to need concrete, basic
+knowledge as a foundation for understanding how to perform the task. For example,
+Kalyuga, Chandler, and Sweller (1998) demonstrated that, although trade apprentices
+were distracted by labels on the diagrams, the less experienced trainees benefited from
+the labels. Novices may have needed concrete labels to explain the abstract diagrams,
+whereas experts were able to understand the diagrams and found the labels distracting.
+This suggests that novices may need the additional concrete information to help them
+interpret more abstract aspects of the task."
+
+"H3: Novices instructed by beginners will perform the target task better than novices
+instructed by experts."
+
+"Transfer of Expertise 9
+the experts relied less on the use of proper names and provided richer
+descriptions whereas the novices began using proper names more. When instructing
+others, communication accuracy and performance increase if the instructor adjusts their
+instruction to their partner’s level of knowledge (Harris, Begg & Upfold, 1980). But
+experts may not be as capable as beginners in understanding, anticipating, and adjusting
+to the level of understanding possessed by novices. This suggests that instructors closer
+to the novices’ level of expertise may be more effective at instructing novices on a task
+than will be experts in that domain.
+H3: Novices instructed by beginners will perform the target task better than novices
+instructed by experts.
+
+"Although concrete instruction may be most effective in situations in which tasks are repeated, we argue that more abstract instruction may be more effective when the parameters of the problem change and tasks are somewhat different."
+
+"In extensive research on analogic transfer – situations in which learners transfer knowledge from base
+tasks to a related task – it appears that distilling the learnings from base tasks into
+abstract concepts facilitates the transfer of learning between tasks (e.g. Bassok, 1990;
+Bassok & Holyoak, 1989). In a review of the work on analogic transfer, Reeves and
+Weisberg (1994) concluded that people are strategic in their use of analogic tasks. They
+use previous problems to solve new problems by comparing similarities between tasks.
+Most of the studies on analogic thinking present multiple base tasks to participants"
+p.9
+
+"Novices frequently attend to irrelevant information in solving problems. It is
+possible that acquiring conceptual knowledge will increase novices’ ability to determine
+which information adds value and which does not, thus making them more effective
+performers"p.10
+
+"H4: Novices instructed by experts will perform better than novices instructed by
+beginners on different (non-target) tasks within the same domain." p.10
+
+Study experiment summary: 
+Ex1 - Experts and Beginners each completed a simple electronics construction task and then were asked to describe their understanding of the circuit. All participants then made an instructional video aimed at novices - the videw were then coded for concrete, abstract, basic, and advanced statements.
+
+Ex2 was 2 rounds: Novices watched either beginner or expert created instructional videos, then built the circuit. In round 2 some were asked to build the same circuit and some were given a new related task.
+
+Participants were Junior and Senior Stanford undergrads, 11 experts / 11 beginners
+experts were engineering/tech major students who had taken courses in electronics, beginners were humanities majors who had not taken electronics courses. The beginners worked through the circuit once and explained their understanding prior to the filming. The experts were tested on 5 other circuits and also built the project circuit. 
+
+Circuit was a basic light telegraph
+
+Findings:
+Experts made significantly more abstract statements and advanced statements than beginners
+Number of basic statements and concrete statements were similar, although higher for beginners than experts. 
+Experts were less likely to provide concrete, basic statements 
+
+For
+example, properly connecting the wires to the spring-coils is required for an electrical
+connection to be completed. However, only 9% of the experts as compared to 90% of the
+Transfer of Expertise 20
+beginners included this concrete information in their instructions.
+
+Novices were 72 freshman/sophmore stanford students
+screened for having no courses with electronics content
+They were shown 1 of 4 videos - 2 experts with highest expertise scores and 2 beginners with the lowest expertise scores
+
+Transfer of Expertise 24
+Insert Table 4 About Here
+Manipulation Check
+At the end of the first round, all participants were asked to rate the quality of the
+instructions they were provided. These rating were recorded on a 1 to 7 scale with
+1=strongly disagree and 7=strongly agree. On these ratings, expert-instructed novices as
+compared to beginner-instructed novices described the instructions as too technical
+(M=3.89 vs. 2.08), too abstract (M=3.67 vs. M=2.25), and without enough details
+(M=4.36 vs. 3.36). Beginner-instructed novices as compared to expert-instructed novices
+rated the instructors as understanding their skill level better (M=4.81 vs. 2.64), providing
+more practical information (M=5.11 vs. 3.89), and providing clearer instructions
+(M=5.17 vs. 3.36). An ANOVA analysis with instructor expertise predicting overall
+instruction quality resulted in beginners as compared to experts being rated as
+significantly better instructors
+Transfer of Expertise 24
+Insert Table 4 About Here
+Manipulation Check
+At the end of the first round, all participants were asked to rate the quality of the
+instructions they were provided. These rating were recorded on a 1 to 7 scale with
+1=strongly disagree and 7=strongly agree. On these ratings, expert-instructed novices as
+compared to beginner-instructed novices described the instructions as too technical
+(M=3.89 vs. 2.08), too abstract (M=3.67 vs. M=2.25), and without enough details
+(M=4.36 vs. 3.36). Beginner-instructed novices as compared to expert-instructed novices
+rated the instructors as understanding their skill level better (M=4.81 vs. 2.64), providing
+more practical information (M=5.11 vs. 3.89), and providing clearer instructions
+(M=5.17 vs. 3.36). An ANOVA analysis with instructor expertise predicting overall
+instruction quality resulted in beginners as compared to experts being rated as
+significantly better instructors, F[1,70] = 31.04, p<.01. These results suggest that the
+novices perceived differences in the way that beginners and experts conveyed instruction
+on the videotapes.
+Novice Performance
+
+To test hypothesis 3, we compared the performance of novices instructed by
+beginners and novices instructed by experts. As expected, we found that novices
+instructed by experts made more errors (M=1.64 vs. .58) and required more time to
+complete the project (M=368 vs. 237 seconds) than novices instructed by beginners 
+
+In the second task, the expert trained novices did significantly better on the related but different task, and also improved their performance on the same task by a significant margin over the beginner instructed novices. 
+
+In a repeated
+measures ANOVA controlling for round one, the completion times of expert as compared
+with beginner instructed novices was no longer significantly different, F[1,34]=1.82, n.s.
+This analysis suggests that the benefit of receiving instructions from beginners as
+compared to experts may diminish with practice on the task
+
+The results from the two studies reported here suggest that experts, as compared
+to beginners, provide instruction at a level and degree of abstraction that may be difficult
+for novices to immediately absorb. However, the abstract, advanced concepts conveyed
+by experts appear to facilitate the transfer of learning to other, similar tasks. This finding
+is consistent with research on analogous problem solving (see Reeves & Weisberg, 1994)
+that suggests that an abstract, conceptual understanding of a domain is important in being
+able to transfer knowledge between tasks.

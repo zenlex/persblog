@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Tales from the Mountain - A Blog`,
+    title: `Tales from the Mountain`,
     author: {
       name: `Erich Keil`,
       summary: `Philosophical Musings about Tech, Learning, and Life`,
@@ -11,7 +11,7 @@ module.exports = {
       twitter: `erich_keil`,
     },
   },
-  pathPrefix: '/persblog',
+  pathPrefix: "/persblog",
   plugins: [
     `gatsby-plugin-image`,
     {
@@ -129,5 +129,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    `gatsby-plugin-dark-mode`,
   ],
 }
