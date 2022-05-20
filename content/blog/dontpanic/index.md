@@ -18,7 +18,7 @@ I'm in the process of trying to build a new set of reflexes and habits around th
 
 The idea is to make the start of any significant debugging a very conscious process and step away from the code for a 10-15 min timeout similar to a process described in [this article](https://www.inc.com/minda-zetlin/decision-making-tough-choices-mental-calm-focus.html). During this time:
 
-    a) do a bit of physical movement - yoga, calisthenics, e
+    a) do a bit of physical movement - yoga, calisthenics, etc.
     b) do some conscious deep breathing
     c) see if I need a snack or a nap - "Sleep when tired, eat when hungry"
     d) take a few minutes to think about the approach
