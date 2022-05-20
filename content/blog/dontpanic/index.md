@@ -1,7 +1,7 @@
 ---
-title: 'Don't Forget Your Towel'
-date: '2022-05-20T05:21:01.488Z'
-decription: 'A reminder to not panic and find the joy in debugging'
+title: "Don't Forget Your Towel"
+date: "2022-05-20T05:21:01.488Z"
+description: "A reminder to not panic and find the joy in debugging"
 ---
 
 ## DON'T PANIC
@@ -26,6 +26,7 @@ The idea is to make the start of any significant debugging a very conscious proc
 The basic idea is to activate the phsyiological systems that burn off the epinephrine, slow the heart rate, and return control to the prefrontal cortex. And do so in a way that methodically trains it as the intuitive state of mind to go to when things aren't working. 
 
 In [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)David Thomas and Andrew Hunt do a fantastic job laying out a methodological approach to the code dissection component of debugging itself that I don't think I can improve upon so I'll refer you there for a professional exploration of that side of things. I will leave you with the end of chapter checklist that I think is quite good. 
+<hr>
 
 - Is the problem being reported a direct result of the underlying problem, or merely a symptom?
 - Is the bug *really* in the framework you're using? Is it in the OS? Or is it in your code?(select isn't broken)
@@ -33,6 +34,6 @@ In [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-pr
 - If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the tests with *this* data?
 - Do the conditions that caused this bug exist anywhere else in the system? Are there other bugs in the larval stage, just waiting to hatch? 
  
-
-
+ <hr>
+<br>
 Happy Debugging!
